@@ -3,7 +3,7 @@ Designing Artificial Intelligence Agents that **generate text** using Deep Neura
 
 
 ## Web Application Demo
-[View the deployed WebApp on Heroku](https://some-app.herokuapp.com/).
+[View the deployed WebApp on Heroku](http://sentimentproject.herokuapp.com/nlpsentiment).
 
 
 ## Installation : Setting up the Application Locally
@@ -19,7 +19,7 @@ Designing Artificial Intelligence Agents that **generate text** using Deep Neura
 A Guide to Creating Virtual Environments into Python and Using them Effectively.
 
 ## Clone the Text Sentiment Analysis Repo :
-Head over to [our github repository](https://github.com/khanfarhan10/TextGeneration) ,fork the repo to your github account & clone the repository into your local machine.
+Head over to [our github repository](https://github.com/khanfarhan10/TextSentimentAnalysis) ,fork the repo to your github account & clone the repository into your local machine.
 
 ## Initial Setup
 
