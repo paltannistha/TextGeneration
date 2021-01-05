@@ -19,7 +19,7 @@ Designing Artificial Intelligence Agents that **generate text** using Deep Neura
 A Guide to Creating Virtual Environments into Python and Using them Effectively.
 
 ## Clone the Text Sentiment Analysis Repo :
-Head over to [our github repository](https://github.com/khanfarhan10/TextSentimentAnalysis) ,fork the repo to your github account & clone the repository into your local machine.
+Head over to [our github repository](https://github.com/khanfarhan10/TextGeneration) ,fork the repo to your github account & clone the repository into your local machine.
 
 ## Initial Setup
 
